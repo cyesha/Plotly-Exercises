@@ -1,3 +1,4 @@
 # Plotly-Exercises
-Sample visualizations using Plotly from LinkedIn E-Learning
+Sample visualizations using Plotly from LinkedIn E-Learning. 
+
 More to follow. 
